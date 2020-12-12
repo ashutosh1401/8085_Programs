@@ -2,7 +2,7 @@
 This Repo contains the 8085 programs
 
 To Contribute: 
-1. Please Fork the repo
+1. Please Fork the repo and clone in your local system
 2. Create Another Folder in the repo with name of the program.
 3. Folder must have .asm file of the program for 8085 microprocessor and flowchart of the same program
 4. Feel free to Contribute
